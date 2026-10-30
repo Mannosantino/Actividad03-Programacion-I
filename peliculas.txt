@@ -1,0 +1,12 @@
+201;Interestelar;Ciencia ficcion;169;5
+202;El padrino;Drama;175;5
+203;Toy Story;Animacion;81;4
+204;Matrix;Ciencia ficcion;136;5
+205;Coco;Animacion;105;4
+206;Titanic;Drama;195;4
+207;Volver al futuro;Ciencia ficcion;116;4
+208;Gladiador;Accion;155;5
+209;Shrek;Animacion;90;3
+210;El Rey Leon;Animacion;88;5
+211;Rapido y furioso;Accion;106;2
+212;Los infiltrados;Policial;151;4
